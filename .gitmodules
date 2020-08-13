@@ -1,0 +1,3 @@
+[submodule "practica1"]
+	path = practica1
+	url = https://github.com/groloboy/practica1.git
